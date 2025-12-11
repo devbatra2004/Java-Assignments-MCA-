@@ -1,0 +1,3 @@
+Name: s
+Age: cd "/Users/devbatra/Desktop/java_assignment/Java-Assignments-MCA-/Java_Streams/" && javac WordFrequencyCounter.java && java WordFrequencyCounter
+Favorite Programming Language: cd /Users/devbatra/Desktop/java_assignment/Java-Assignments-MCA-
